@@ -28,3 +28,8 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 ### Heat map of walking paths
 
 ![walking paths](https://github.com/user-attachments/assets/59f6c231-132b-4f8f-be7c-8dcdb6c4f1a4)
+
+### Interactive Tree  (Hobby project)
+
+![Tree manipulation](https://github.com/user-attachments/assets/34018d2e-7e44-4c45-9ead-9fe75e884eaf)
+
