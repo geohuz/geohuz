@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm georgehu, a developer with years of experience on frontend and backend area from China. I have work experience in large multinational manufacturer as technial support analysist, and some startup companies range from WIFI hotspot customization and indoor positioning applications. 
+I'm georgehu, a developer with years of experience on frontend and backend area from China. I have work experience in large multinational food manufacturer as technial support analysist, and some startup companies range from WIFI hotspot customization and indoor positioning applications. 
 
 ### Frontend Skills
 
