@@ -18,8 +18,8 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 ## Some of the screenshots of my projects
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd"
   <figcaption>Indoor map of factory</figcaption>
+  <img src="https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd"
 </figure>
 
 ![3d Map](https://github.com/user-attachments/assets/eaa40f14-140f-4567-8265-186d15d06993)
