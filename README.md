@@ -17,7 +17,7 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 
 ## Some of the screenshots of my projects
 
-![Indoor Mapping of factory](<img width="415" alt="image" src="https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd">)
+[![Indoor Mapping of factory]](<img width="415" alt="image" src="https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd">)
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/eaa40f14-140f-4567-8265-186d15d06993">
 
