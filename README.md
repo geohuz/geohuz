@@ -5,7 +5,7 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 ### Frontend Skills
 
 * Reactjs, Solidjs, D3js, 3d indoor mapping and animation with React + websocket + Threejs
-* Rescript: My hobby frontend language, have used it to rewrite the electric fence rule engine.
+* Rescript: My hobby frontend language, have used it to rewrite the electric fence rule engine of the Indoor positioning application.
 
 ### Backend Skills
 
@@ -13,5 +13,5 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 * Database: Postgresql, stored procedure programming with pgSQL. PostGIS with PgRouting extension to support route planning in indoor mapping application.
 * Docker and Docker Swarm in DevOps.
 * Postgrest: A middleware to expose the db operation to restful API.
-* Nim: My hobby language, have used it to rewrite the computation heavy part of the backend service, and realtime notification messaging with Postgresql.
+* Nim: My hobby language, have used it to rewrite the computation heavy part of the backend service, and a realtime notification service with Postgresql. 
 
