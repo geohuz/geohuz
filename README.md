@@ -21,4 +21,4 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/eaa40f14-140f-4567-8265-186d15d06993">
 
-
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/59f6c231-132b-4f8f-be7c-8dcdb6c4f1a4">
