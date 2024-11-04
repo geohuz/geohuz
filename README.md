@@ -10,7 +10,7 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 ### Backend Skills
 
 * Python, NodeJS, Golang
-* Database: Postgresql, stored procedure programming with pgSQL. PostGIS with PgRouting extension to support route planning in indoor mapping application.
+* Database: Postgresql, stored procedure programming with pgSQL, PostGIS with PgRouting extension to support route planning in indoor mapping application.
 * Docker and Docker Swarm in DevOps.
 * Postgrest: A middleware to expose the db operation to restful API.
 * Nim: My hobby programming language, have used it to rewrite the computation heavy part of the backend service, and a realtime notification service with Postgresql. 
