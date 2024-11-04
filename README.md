@@ -1,4 +1,4 @@
-<img width="415" alt="image" src="https://github.com/user-attachments/assets/3e7de11c-1591-468c-b3ce-2ad11b16db93">## Hi there 👋
+## Hi there 👋
 
 I'm georgehu, a developer with years of experience on frontend and backend area from China. I have work experience in large multinational food manufacturer as technial support analysist, and some startup companies range from WIFI hotspot customization and indoor positioning applications. 
 
