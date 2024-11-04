@@ -15,3 +15,6 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 * Postgrest: A middleware to expose the db operation to restful API.
 * Nim: My hobby programming language, have used it to rewrite the computation heavy part of the backend service, and a realtime notification service with Postgresql. 
 
+## Some of the screenshots of my projects
+
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd">
