@@ -4,7 +4,7 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 
 ### Frontend Skills
 
-* Reactjs, Solidjs, D3js, 3d indoor mapping and animation with React + websocket + Threejs
+* Reactjs, Solidjs, D3js
 * Rescript: My hobby programming language, have used it to rewrite the electric fence rule engine of the Indoor positioning application.
 
 ### Backend Skills
@@ -17,7 +17,7 @@ I'm georgehu, a developer with years of experience on frontend and backend area 
 
 ## Some of the screenshots of my projects
 
-### 3D map
+### 3d indoor mapping and animation with React + websocket + Threejs
 
 ![Map of factory](https://github.com/user-attachments/assets/b316204a-ab9c-4c6b-a42f-36e05122a8dd)
 
